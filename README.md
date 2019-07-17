@@ -214,9 +214,13 @@
 ## **5. 개발 환경**
 
 ■ 운영체제 : Windows7 Professional K
+
 ■ 컴파일 버전(언어) : _MSC_VER 1916
+
 ■ CPU : Intel(R) Core(TM) I7-4790 CPU @ 3.60GHz
+
 ■ 메모리 : 8GB
+
 ■ IDE :　Microsoft Visual Studio Community 2017 15.9.6
 
 ## **6. 데이터 흐름도**
