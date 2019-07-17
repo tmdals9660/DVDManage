@@ -187,7 +187,7 @@
 
  조회할 DVD의 ISBN을 입력받는 화면. 키보드를 통하여 DVD ISBN을 입력받는다.
  
-![4-2](./image/대여이력/DVD이력조회2.JPG)
+![4-2](./image/DVD이력조회2.JPG)
 
  대여 이력이  있는 DVD ISBN을 입력한 경우 고객 ID, 이름 , 전화번호, 대여일 출력
  dvdInfoSearch.c의 InforDVDBASIC함수를 통해 출력
