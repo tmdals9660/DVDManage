@@ -34,7 +34,7 @@
 
 ### **1 – 1. 프로그램 실행**
 
-![1-1](./image/데이터 불러오기.JPG)
+![1-1](./image/데이터불러오기.JPG)
 
 기 등록된 데이터가 존재하면 "기 등록된 OO데이터 불러오는 중..." 메시지 출력
 프로그램 실행 시 메인화면 전에 출력되는 화면으로, 기존 데이터 유무 출력
@@ -187,7 +187,7 @@
 
  조회할 DVD의 ISBN을 입력받는 화면. 키보드를 통하여 DVD ISBN을 입력받는다.
  
-![4-2](./image/대여이력/DVD이력조회2.JPG)
+![4-2](./image/DVD이력조회2.JPG)
 
  대여 이력이  있는 DVD ISBN을 입력한 경우 고객 ID, 이름 , 전화번호, 대여일 출력
  dvdInfoSearch.c의 InforDVDBASIC함수를 통해 출력
@@ -214,9 +214,13 @@
 ## **5. 개발 환경**
 
 ■ 운영체제 : Windows7 Professional K
+
 ■ 컴파일 버전(언어) : _MSC_VER 1916
+
 ■ CPU : Intel(R) Core(TM) I7-4790 CPU @ 3.60GHz
+
 ■ 메모리 : 8GB
+
 ■ IDE :　Microsoft Visual Studio Community 2017 15.9.6
 
 ## **6. 데이터 흐름도**
